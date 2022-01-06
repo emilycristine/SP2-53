@@ -1,7 +1,7 @@
 snapCrackle,n,if,1else,2else
 """Snap""",1,false,false,true
-"""Snap, 2""",2,-,-,-
+"""Snap, 2""",2,true,false,false
 """Snap, 2, Snap""",3,false,false,true
-"""Snap, 2, Snap, 4""",4,-,-,-
+"""Snap, 2, Snap, 4""",4,true,false,false
 """Snap, 2, Snap, 4, SnapCrackle""",5,true,false,false
 """Snap, 2, Snap, 4, SnapCrackle, 6, Snap, 8, Snap, Crackle""",...10,true,false,false
